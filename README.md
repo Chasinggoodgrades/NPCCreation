@@ -1,5 +1,9 @@
 # NPC Creation
 
+### Download .exe
+https://github.com/Chasinggoodgrades/NPCCreation/releases/tag/publish
+
+
 ### Required:
 - 3.3.5a MySQL Server
 - Works for TrinityCore only
