@@ -1,4 +1,4 @@
-# TCNPCCreator2023
+# NPC Creation
 
 ### Required:
 - 3.3.5a MySQL Server
